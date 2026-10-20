@@ -2,8 +2,6 @@
 
 Global multi-entity order-to-cash platform: concurrent reservation, double-entry ledger, multi-currency settlement, multilateral netting, and verifiable settlement receipts.
 
-Part of the [flagship portfolio](https://github.com/cypher682/flagship-portfolio).
-
 ## Status
 
 Scaffold. Domain model, reservation core, ledger, and settlement engine are not implemented yet.
