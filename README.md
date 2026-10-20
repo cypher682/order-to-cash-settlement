@@ -19,8 +19,6 @@ Scaffold. Domain model, reservation core, ledger, and settlement engine are not 
 
 ## Documents
 
-- [Product overview](10-order-to-cash-settlement.md)
-- [PRD](10-d01-prd.md)
 - [Architecture](docs/architecture.md)
 
 ## Quick start
