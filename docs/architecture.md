@@ -33,7 +33,7 @@ internal/outbox    transactional outbox + dispatcher
 
 ## Open decisions
 
-Tracked in the PRD (section 11). Current defaults for the MVP:
+Current implementation defaults:
 
 - Netting: multilateral, per settlement window.
 - Receipt: signed canonical JSON payload (ed25519), transparency log deferred.
